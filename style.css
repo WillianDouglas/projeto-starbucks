@@ -10,7 +10,7 @@
 .center {
     display: flex;
     flex-wrap: wrap;
-    max-width: 1280px;
+    max-width: 2000px;
     margin: auto;
     padding: 0 2%;
 }
